@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evagalle
-- 👀 I’m interested in epigenetics, especially histone modifications and DNA methylation
-- 🌱 I’m currently learning Python coding
+- 👀 I’m interested in anything genomic, epigenomic, transcriptomic
+- 🌱 I’m currently learning Nextflow coding and working on AWS
 - 📫 How to reach me: evagalle.eg@gmail.com
 
 <!---
